@@ -4,5 +4,5 @@ print("pues no hay nada mejor")
 print("que hacer esto en domingo")
 print (2+4)
 print ("y una pequeña mención más")
-
+print ("y hola en martes")
 
